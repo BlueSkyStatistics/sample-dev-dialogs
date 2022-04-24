@@ -1,0 +1,59 @@
+{
+    "menu": [
+        {
+            "name": "Datasets",
+            "tab": "Datasets",
+            "buttons": [
+                "./development/sample5",
+                "./development/sample10",
+                "./development/sampleDialog1",
+                "./development/sampleDialog2"
+            ]
+        },
+        {
+            "name": "Variables",
+            "tab": "Variables",
+            "buttons": []
+        },
+        {
+            "name": "Analysis",
+            "tab": "analysis",
+            "buttons": []
+        },
+        {
+            "name": "Distribution",
+            "tab": "distribution",
+            "buttons": []
+        },
+        {
+            "name": "Graphics",
+            "tab": "graphics",
+            "buttons": []
+        },
+        {
+            "name": "Model Fitting",
+            "tab": "model_fitting",
+            "buttons": []
+        },
+        {
+            "name": "Model Tuning",
+            "tab": "model_tuning",
+            "buttons": []
+        },
+        {
+            "name": "Model Evaluation",
+            "tab": "model_statistics",
+            "buttons": []
+        },
+        {
+            "name": "Forecasting",
+            "tab": "forecasting",
+            "buttons": []
+        },
+        {
+            "name": "Agreement",
+            "tab": "agreement",
+            "buttons": []
+        }
+    ]
+}
